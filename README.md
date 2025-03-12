@@ -1,5 +1,5 @@
 # 🧑🏽 About Me:
-👋 Hi, I’m @AndCLab, please call me Andre 🙎🏽‍♂️<br>👀 I’m interested in software development 💻<br>🌱 I’m currently learning React in TypeScript 🧑🏽‍💻<br>💞️ I’m looking to collaborate on React projects 😁<br>📫 How to reach me: send me an email, I typically reply within the day 📨<br>😄 Pronouns: he/him, but sometimes she/eesh 🧑🏽<br>⚡ Fun fact: Bees dance to other bees when sharing directions 🐝
+👋 Hi, I’m @AndCLab, please call me Andre 🙎🏽‍♂️<br>👀 I’m interested in software development 💻<br>🌱 I’m currently learning React in TypeScript 🧑🏽‍💻<br>💞️ I’m looking to collaborate on React projects 😁<br>📫 How to reach me: send me a message in LinkedIn, I typically reply within the day 📨<br>😄 Pronouns: he/him, but sometimes she/eesh 🧑🏽<br>⚡ Fun fact: Bees dance to other bees when sharing directions 🐝
 
 
 ## 🌐 Socials:
